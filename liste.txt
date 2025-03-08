@@ -1,6 +1,5 @@
 Uygulama Özellikleri:
 1. Kullanıcı giriş ve kayıt sistemi
 2. Profil düzenleme ve kişiselleştirme
-3. Dosya yükleme ve paylaşma
-4. Çevrimiçi mesajlaşma
-5. Bildirim ve hatırlatma sistemi
+3. Çevrimiçi mesajlaşma
+4. Bildirim ve hatırlatma sistemi
