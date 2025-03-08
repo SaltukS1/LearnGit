@@ -1,5 +1,11 @@
 Uygulama Özellikleri:
-1. Kullanıcı giriş ve kayıt sistemi
+1. Dosya yükleme ve paylaşma
 2. Profil düzenleme ve kişiselleştirme
+<<<<<<< HEAD
 3. Çevrimiçi mesajlaşma
 4. Bildirim ve hatırlatma sistemi
+=======
+3. Kullanıcı giriş ve kayıt sistemi
+4. Çevrimiçi mesajlaşma
+5. Bildirim ve hatırlatma sistemi
+>>>>>>> 39825b96604e1cf75cdb910c3849994a247c6e83
