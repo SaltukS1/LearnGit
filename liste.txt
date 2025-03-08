@@ -1,0 +1,5 @@
+Uygulama Özellikleri:
+1. Kullanıcı giriş ve kayıt sistemi
+2. Profil düzenleme ve kişiselleştirme
+3. Dosya yükleme ve paylaşma
+4. Çevrimiçi mesajlaşma
